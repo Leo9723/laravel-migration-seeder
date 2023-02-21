@@ -12,7 +12,10 @@
 </head>
 
 <body>
-<table class="table">
+
+<h1>Treni</h1>
+
+<table class="table table-dark table-hover">
   <thead>
     <tr>
       <th scope="col">#</th>
